@@ -7,3 +7,5 @@ How to run:
 2. Go to project folder in your terminal
 3. run $node isSubstring.js (you need node installed)
 4. Follow me on github!
+
+
